@@ -1,0 +1,5 @@
+{
+  "name": "CraftBox Production Monitoring & Control",
+  "description": "A comprehensive React dashboard for monitoring Nanos unikernels, GPT-4 AI agents, and real-time game world metrics for the CraftBox platform. Features live telemetry, VM management, and Gemini-powered infrastructure optimization advice.",
+  "requestFramePermissions": []
+}
